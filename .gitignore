@@ -1,3 +1,7 @@
+# Locks
+package-lock.json
+yarn.lock
+
 # Logs
 logs
 *.log
@@ -102,3 +106,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Mac
+.DS_Store
